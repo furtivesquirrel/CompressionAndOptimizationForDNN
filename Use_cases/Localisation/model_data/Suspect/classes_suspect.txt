@@ -1,0 +1,3 @@
+personne
+arme
+sac

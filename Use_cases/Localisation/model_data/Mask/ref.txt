@@ -1,0 +1,2 @@
+https://github.com/arpan65/Mask-Adaptivity-Detection-Using-Computer-Vision
+https://towardsdatascience.com/mask-adaptivity-tracking-using-computer-vision-8d36de26f29
